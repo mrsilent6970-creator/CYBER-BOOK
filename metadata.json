@@ -1,0 +1,8 @@
+{
+  "name": "CYBER BOOK - Next-Gen Social Platform",
+  "description": "A production-ready social media platform with JSON-based architecture, featuring Stories, Reels, AI Bots, and Premium Verification systems.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
